@@ -7,14 +7,12 @@
     padding: 0;
     margin: 0;
     display: flex;
+    justify-content: flex-end;
     gap: 10px;
 }
 
 .nav li {
-    justify-content: flex-end;
-    align-items: center;
-    list-style: none;
-    padding: 5px;
+  margin-left: 10px;
 }
 
 .nav a {
